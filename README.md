@@ -90,6 +90,9 @@ Primary script responsible for handling input, prompting users, and logging data
 **checkin_logs/**  
 Directory where daily checkin CSV log files are stored.
 
+**database.csv/**  
+File where all known user information are stored.
+
 ---
 
 ## Deployment (Raspberry Pi Example)
