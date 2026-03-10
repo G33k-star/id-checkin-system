@@ -31,7 +31,7 @@ This project is designed to run on systems such as a Raspberry Pi or Linux works
    - Student ID
    - Phone number
 4. The program logs the check-in information to a CSV file.
-5. The CSV file is automatically saved in a **data folder**.
+5. The CSV file is automatically saved in a data folder.
 
 Each day creates a new CSV file for easier organization and record keeping.
 
